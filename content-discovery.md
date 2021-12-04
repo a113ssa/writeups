@@ -4,11 +4,11 @@
 
 ### Manually
 
-Words: robots.txt, sitemap.xml, dafault favicon, HTTP headers, framework stack
+Words: robots.txt, sitemap.xml, default favicon, HTTP headers, framework stack
 
 _Details_: <br>
 OSINT: google dorking, wayback machine, github, s3 backets (.s3.amazonaws.com/)<br>
-favicon: md5sum, OWASP favicons base, identify framework)
+favicon: md5sum, OWASP favicons base, identify framework
 
 ### Automated
 
